@@ -1,4 +1,4 @@
-# IP Adress | Internet Protocol
+# IP Adress | Subnet Mask | Default Gateway
 
  A unique address that must be different on each computer. 
 ## Example: Students in a class. Surely every student is different.
