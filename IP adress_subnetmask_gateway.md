@@ -12,7 +12,7 @@
 ## - Subnet Mask
 
 The number that determines the distribution of network segments and the maximum number of hosts in the network. 
-## Example : Classroom capacity
+Example : Classroom capacity
 
 
 # Default Gateway
