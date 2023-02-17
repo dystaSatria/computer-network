@@ -9,9 +9,9 @@
  <br>
  <br>
  
-# - Subnet Mask
+## - Subnet Mask
 
-## The number that determines the distribution of network segments and the maximum number of hosts in the network. 
+The number that determines the distribution of network segments and the maximum number of hosts in the network. 
 ## Example : Classroom capacity
 
 
