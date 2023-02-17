@@ -3,7 +3,7 @@
 <br>
 
 
-## IP Adress (Internet Protocol)
+## - IP Adress (Internet Protocol)
  A unique address that must be different on each computer. 
  Example: Students in a class. Surely every student is different.
  <br>
