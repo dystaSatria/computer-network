@@ -13,8 +13,8 @@
 
 The number that determines the distribution of network segments and the maximum number of hosts in the network. 
 Example : Classroom capacity
+<br>
+<br>
 
-
-# Default Gateway
-
+## Default Gateway
 Address used to enter and exit the network.
